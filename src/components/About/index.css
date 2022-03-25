@@ -1,0 +1,13 @@
+.about-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+}
+.about-image {
+    width: 200px;
+}
+.about-text {
+    color: #222222;
+}

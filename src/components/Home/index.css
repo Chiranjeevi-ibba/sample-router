@@ -1,0 +1,13 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+}
+.home-image {
+    width: 200px;
+}
+.home-text {
+    color: #222222;
+}
